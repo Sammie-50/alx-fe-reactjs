@@ -6,7 +6,7 @@ import WelcomeMessage from './components/WelcomeMessage'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import MainContent from './components/MainContent'
-import
+import UserProfile from './components/UserProfile'
 
 function App() {
   const [count, setCount] = useState(0)
